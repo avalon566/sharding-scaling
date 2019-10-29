@@ -41,7 +41,7 @@
         <slf4j.version>1.7.28</slf4j.version>
         <snakeyaml.version>1.16</snakeyaml.version>
         <guava.version>18.0</guava.version>
-        <netty.version>4.1.16.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <dbcp2.version>2.7.0</dbcp2.version>
         
         <lombok.version>1.18.4</lombok.version>
